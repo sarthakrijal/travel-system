@@ -1,0 +1,17 @@
+        .neavi ul li {
+            list-style: none;
+        }
+        
+        a {
+            text-decoration: none;
+            color: black;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            float: left;
+        }
+        
+        ul a {
+            display: block;
+            padding: 14px 16px;
+            background-color: aqua;
+            margin-top: 0px;
+        }

@@ -1,0 +1,121 @@
+* {
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+
+.abc {
+    background: url(for6.jpg)no-repeat;
+    height: 100vh;
+    webkit-background-size: cover;
+    background-size: cover;
+    position: relative;
+    margin: 0px 0px 0px 0px;
+}
+
+.sarthak {
+    color: rgb(1, 5, 10);
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-shadow: 2px 2px 5px rgb(82, 81, 81);
+}
+
+.sarthak p {
+    font-family: 'Lobster', cursive;
+}
+
+.fom .inp {
+    display: block;
+    width: 80%;
+    margin-right: auto;
+    margin-left: auto;
+    border-radius: 2rem;
+    padding: 1rem;
+    outline: none;
+    background-color: rgb(223, 221, 212);
+    opacity: 0.7;
+}
+
+.fom .but {
+    width: 30%;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    text-align: center;
+    border-radius: 2rem;
+    background-color: rgb(223, 221, 212);
+    margin-top: 2mm;
+    opacity: 0.7;
+}
+
+.top ul {
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(8, 8, 8);
+    padding-left: 40px;
+    padding-right: 45px;
+    opacity: 0.7;
+}
+
+.top ul li {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+    color: rgb(243, 237, 237);
+    font-size: 30px;
+    font-family: 'Anton', sans-serif;
+}
+
+li :hover {
+    background-color: rgb(83, 83, 81);
+}
+
+.zzz {
+    height: 500px;
+    width: 500px;
+    border-radius: 50%;
+    margin-top: 0px;
+    display: block;
+    margin-left: 0px;
+    float: left;
+}
+
+.yyy {
+    height: 500px;
+    width: 500px;
+    border-radius: 50%;
+    margin-top: 0px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    float: right;
+}
+
+.xxx {
+    height: 500px;
+    width: 500px;
+    border-radius: 50%;
+    margin-top: 0px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.sec2 {
+    background-color: rgb(233, 239, 241);
+}
+
+.sec2:hover {
+    background-color: black;
+}
+
+.sec3 {
+    background: url(aem.jpg)no-repeat;
+    height: 100vh;
+    background-size: cover;
+    text-align: center;
+}
